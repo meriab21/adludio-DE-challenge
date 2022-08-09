@@ -1,0 +1,4 @@
+outs:
+- md5: ab164bf3d2fcd6a0e19fd8b1fbb690e7
+  size: 92559869
+  path: clean_campaigns_data.csv

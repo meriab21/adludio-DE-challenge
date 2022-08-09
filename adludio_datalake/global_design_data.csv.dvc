@@ -1,0 +1,4 @@
+outs:
+- md5: 2c884a3d3fe982f0a2367ed9b5ea2fb5
+  size: 3860840
+  path: global_design_data.csv

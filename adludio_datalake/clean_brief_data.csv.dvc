@@ -1,0 +1,4 @@
+outs:
+- md5: e7eb59f47c771acf6af9c22ab8ff08fe
+  size: 113765
+  path: clean_brief_data.csv
