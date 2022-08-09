@@ -1,0 +1,4 @@
+outs:
+- md5: eb9cf286bbcd3c54efe27f692d8e34de
+  size: 100695832
+  path: campaigns_inventory_updated.csv
